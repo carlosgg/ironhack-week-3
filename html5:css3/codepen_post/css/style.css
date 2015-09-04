@@ -1,0 +1,15 @@
+.box{
+  border: 1px solid grey;
+}
+img{
+  max-width: 70px;
+}
+.media{
+  padding-bottom: 20px;
+}
+.comment{
+  border: 1px solid CornflowerBlue;
+  background-color: white;
+  border-radius: 105px;
+  color: CornflowerBlue;
+}
